@@ -11,7 +11,6 @@ const config: Config = {
       backgroundImage: {
 
         
-        "BgIMG":"url('https://receitasdeliciosasparaemagrecer697.my.canva.site/images/c0063ac10e0a4a0d9f67af955f62d6dc.jpg')",
 
         "img1":"url('https://receitasdeliciosasparaemagrecer697.my.canva.site/images/653670a17e58028837f36d28dcbe86d1.jpg')",
 
