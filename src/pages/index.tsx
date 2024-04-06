@@ -58,7 +58,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <section className="w-full h-screen bg-BgIMG bg-cover bg-center bg-fixed flex justify-center items-center lgSection">
+        <section className={`${styles.landingSec} w-full h-screen bg-cover bg-center bg-fixed flex justify-center items-center`}>
 
           <article className="text-center landingPage w-[100%] ">
 

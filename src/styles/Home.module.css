@@ -9,6 +9,13 @@
 
 }
 
+.landingSec{
+
+    background-image: url('../assets/landingimg.webp');
+    background-size: cover;
+    background-position: center;
+}
+
 .inner div {
 
     height: 400px;
