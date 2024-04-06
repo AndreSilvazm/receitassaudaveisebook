@@ -60,9 +60,9 @@ export default function Home() {
       <main>
         <section className="w-full h-screen bg-BgIMG bg-cover bg-center bg-fixed flex justify-center items-center">
 
-          <article className="text-center landingPage ">
+          <article className="text-center landingPage w-[100%] ">
 
-            <h1 className="text-gray-50 text-[4em] uppercase mb-6">Receitas deliciosas</h1>
+            <h1 className="text-gray-50 text-[2em] text-center m-auto uppercase mb-6 w-[90%] md:text-[4em]">Receitas deliciosas</h1>
             <Link href='https://pay.kiwify.com.br/mTgS6m2' className="bg-black p-3 w-[100%]  text-white mt-4 rounded-lg">Emagreça com sabor</Link>
 
           </article>
@@ -73,7 +73,7 @@ export default function Home() {
 
         <section >
 
-          <article className="w-full h-screen  flex justify-center flex-col my-11 md:block md:mt-5 md:h-1/3 md:py-5 md:mb-32  ">
+          <article className="w-full   flex justify-center flex-col my-11 md:block md:mt-5 md:h-1/3 md:py-5 md:mb-32  ">
 
           <h1 className="text-center uppercase text-3xl">Sobre o E-book</h1>
 
